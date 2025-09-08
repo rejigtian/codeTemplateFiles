@@ -1,0 +1,46 @@
+{
+    "templates": {
+        "live-v1.0_cb6f44db.zip": {
+            "displayName": "live-v1.0",
+            "fileName": "live-v1.0_cb6f44db.zip",
+            "type": "live",
+            "createTime": 0
+        },
+        "live_e2d460ea.zip": {
+            "displayName": "live",
+            "fileName": "live_e2d460ea.zip",
+            "type": "live",
+            "createTime": 0
+        },
+        "live_templates_26be602d.zip": {
+            "displayName": "live_templates",
+            "fileName": "live_templates_26be602d.zip",
+            "type": "live",
+            "createTime": 0
+        },
+        "log_67381dc9.zip": {
+            "displayName": "log",
+            "fileName": "log_67381dc9.zip",
+            "type": "live",
+            "createTime": 0
+        },
+        "test1_36b37554.zip": {
+            "displayName": "test1",
+            "fileName": "test1_36b37554.zip",
+            "type": "file",
+            "createTime": 1757324730
+        },
+        "test_74503b75.zip": {
+            "displayName": "test",
+            "fileName": "test_74503b75.zip",
+            "type": "live",
+            "createTime": 1757324743
+        },
+        "test_a4de3bde.zip": {
+            "displayName": "test",
+            "fileName": "test_a4de3bde.zip",
+            "type": "file",
+            "createTime": 1757324634
+        }
+    }
+}
